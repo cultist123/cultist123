@@ -4,10 +4,9 @@
 
 ## About Me
 
-- 🎓 MEng student in Computer Engineering — Autonomy & Robotics at the University of Illinois Urbana-Champaign (2026–2028, expected).
-- 🧑‍🎓 BS in Electrical and Computer Engineering from Nanjing Normal University (2026); GPA 3.71/4.0, top 5%.
+- 🎓 MEng student in Computer Engineering — Autonomy & Robotics at the University of Illinois Urbana-Champaign.
+- 🧑‍🎓 BS in Electrical and Computer Engineering from Nanjing Normal University (2026).
 - 💻 Former Software Engineer Intern at GoodWe, working on backend services and IoT device integration.
-- 🔬 Former Research Assistant at the Jiangsu Key Laboratory of 3D Printing Equipment, working on real-time C++/OpenCV perception systems.
 - 🛠️ Interested in distributed systems, backend engineering, AI infrastructure, and robotics.
 - 📝 Sharing learning notes and project write-ups on my blog.
 - 🔗 [LinkedIn](https://www.linkedin.com/in/zewen-shen-471490349/)
