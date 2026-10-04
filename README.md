@@ -4,7 +4,7 @@
 
 ## About Me
 
-- 🎓 Autonomy and Robotics @ UIUC
+- 🎓 Computer Engineering - Autonomy and Robotics @ UIUC
 - 📝 Sharing notes from my learning and project work on my blog.
 - 🛠️ Building projects and documenting the process along the way.
 
